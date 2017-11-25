@@ -1,0 +1,3 @@
+https://www.java2blog.com/create-restful-web-servicesjax-rs-using/ - make it firstly
+https://www.java2blog.com/restful-web-services-jaxrs-json-example/ - and when , 
+																	 make it secondly
