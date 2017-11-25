@@ -1,3 +1,4 @@
+https://repo1.maven.org/maven2/com/sun/jersey/jersey-archive/1.17.1/ - before all download
 https://www.java2blog.com/create-restful-web-servicesjax-rs-using/ - make it firstly
 https://www.java2blog.com/restful-web-services-jaxrs-json-example/ - and when , 
 																	 make it secondly
